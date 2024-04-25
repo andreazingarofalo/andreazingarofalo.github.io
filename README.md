@@ -18,8 +18,8 @@ Here's a list of useful sites:
 
 ## Mathematics
 * [3Blue1Brown](https://www.3blue1brown.com/)
-* [Matemate](https://www.matemate.info)
 * [Conway's Game of Life](https://playgameoflife.com)
+* [Matemate](https://www.matemate.info)
 * [Terry Tao](https://terrytao.wordpress.com)
 
 ## Miscellanea
