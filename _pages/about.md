@@ -11,6 +11,4 @@ Theoretical Physics student at the University of Salento and School of Advanced 
 
 Interests
 ======
-My current interests lie in exploring the foundational and information-theoretic aspects of quantum theory,
-particularly in understanding peculiar quantum phenomena such as entanglement and nonlocality, and
-their implications for both fundamental physics and emerging technologies.
+My current interests lie in exploring the foundational and information-theoretic aspects of quantum theory, particularly in understanding peculiar quantum phenomena such as entanglement and nonlocality, and their implications for both fundamental physics and emerging technologies.
