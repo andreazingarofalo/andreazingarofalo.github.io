@@ -11,4 +11,7 @@ paperurl: 'https://iopscience.iop.org/article/10.1088/1751-8121/adc8e9'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Francesco Giglio et al 2025 J. Phys. A: Math. Theor. 58 165202'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+## Abstract
+
+We analyse a generalised Fokker–Planck equation in which both the nonlinear terms and the diffusivity are non-trivially dependent on the density and its derivatives. The key feature of the equation is its integrability, for it is linearisable through a Cole–Hopf transformation. We determine solutions of travelling wave and multi-kink type by resorting to a geometric construction in the regime of small viscosity. The resulting asymptotic solutions are time-dependent Heaviside step functions representing classical (viscous) shock waves. As a result, line segments in the space of independent variables arise as resonance conditions of exponentials and represent shock trajectories. We then discuss fusion and fission dynamics exhibited by the multi-kinks by drawing parallels in terms of shock collisions and scattering processes between particles, which preserve total mass and momentum. Finally, we propose Bäcklund transformations and examine their action on the solutions to the equation under study.
+
