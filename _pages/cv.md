@@ -45,9 +45,3 @@ Languages
 * English: C1, Full professional proficiency
 * French: B2, Limited working proficiency
 * German: A2, Elementary proficiency
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
