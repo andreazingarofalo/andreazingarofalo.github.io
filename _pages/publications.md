@@ -9,7 +9,7 @@ author_profile: true
 
 - F. Giglio, G. Landolfi, L. Martina, and **A. Zingarofalo**, Integrability properties and multi-kink
 solutions of a generalised Fokker-Planck equation, *Journal of Physics A: Mathematical and
-Theoretical*, 58(16):165202, April 2025. [Link](10.1088/1751-8121/adc8e9)
+Theoretical*, 58(16):165202, April 2025. [Link](https://iopscience.iop.org/article/10.1088/1751-8121/adc8e9)
 
 ## Communication & Outreach
 
