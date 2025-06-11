@@ -103,3 +103,21 @@ $vine-color                 : #00bf8f;
 $youtube-color              : #bb0000;
 $xing-color                 : #006567;
    
+
+/* ==========================================================================
+   Custom Accent Color
+   ========================================================================== */
+
+$custom-purple: #6a0dad;
+
+a,
+a:visited {
+  color: $custom-purple;
+}
+
+a:hover,
+a:focus,
+a:active {
+  color: lighten($custom-purple, 10%);
+  text-decoration: underline;
+}
