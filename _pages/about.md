@@ -15,4 +15,4 @@ My current interests lie in exploring the foundational and information-theoretic
 
 CV
 ======
-Here's my [CV](/files/cv_AZ.pdf)
+Here's my full [CV](/files/cv_AZ.pdf).
