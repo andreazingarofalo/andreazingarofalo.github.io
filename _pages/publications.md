@@ -13,7 +13,7 @@ Theoretical*, 58(16):165202, April 2025. [Link](https://iopscience.iop.org/artic
 
 ## Communication & Outreach
 
-- **A. Zingarofalo** Il conflitto tra meccanica quantistica e senso comune, 2024, Published on Il Chiasmo by Treccani, the Italian Encyclopaedia Institute. [Link](https://www.treccani.it/magazine/chiasmo/scienze_naturali_e_tecnologia/54-conflitto/conflitto_zingarofalo_ISUFI.html)
+- **A. Zingarofalo**, Il conflitto tra meccanica quantistica e senso comune, 2024, *Il Chiasmo* by Treccani, the Italian Encyclopaedia Institute. [Link](https://www.treccani.it/magazine/chiasmo/scienze_naturali_e_tecnologia/54-conflitto/conflitto_zingarofalo_ISUFI.html)
 
 - **A. Zingarofalo**, Il ruolo delle simmetrie nel problema di Keplero, In D. Avaro and F. Decataldo, editors, *Rete di Idee, Udine 2022*, pages 41–50, Udine, 2023, Forum Editrice. [Link](https://forumeditrice.it/percorsi/scienza-e-tecnica/varia/rete-di-idee?version=open)
 
