@@ -7,8 +7,8 @@ author_profile: true
 
 ## Talks
 
-- Exploring the boundaries of quantum correlations, *IPhT Quantum meetings*, CEA Paris-Saclay, 6 June 2025.
+- **Exploring the Boundaries of Quantum Correlations**, *IPhT Quantum meetings*, Institut de Physique Théorique, CEA Paris-Saclay, Paris, 6 June 2025.
 
 ## Posters
 
-- Orthogonal Faces in the CHSH Scenario, MAQI (*Mathematical Aspects of Quantum Information*) Summer School
+- **Orthogonal Faces in the CHSH Scenario**, MAQI (*Mathematical Aspects of Quantum Information*) Summer School, Paris, 18 June 2025. [Link](/files/Poster_MAQI.pdf)
