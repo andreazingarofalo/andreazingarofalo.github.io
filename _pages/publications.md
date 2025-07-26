@@ -20,3 +20,5 @@ Theoretical*, 58(16):165202, April 2025. [Link](https://iopscience.iop.org/artic
 ## Dissertations
 
 - **A. Zingarofalo**, *Study of one-dimensional qunatum integrable systems through the Bethe Ansatz techniques*, Bachelor's dissertation. [Link](/files/BScThesis.pdf)
+
+- **A. Zingarofalo**, *Exploring the boundaries of quantum correlations: Bell inequalities, convex duality and self-testing*, Master's dissertation. [Link](/files/MScThesis.pdf)
