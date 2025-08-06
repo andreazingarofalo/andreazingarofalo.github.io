@@ -17,4 +17,4 @@ I’m also drawn to statistical mechanics, especially where it intersects with q
 
 CV
 ======
-Here's my full [CV](/files/cv_AZ.pdf).
+Here's my full [CV](/files/AZ_CV.pdf).
