@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Theoretical Physics student at the University of Salento and School of Advanced Studies ISUFI.
+PhD Candidate in Quantum Information Theory @ULB
 
 Interests
 ======
