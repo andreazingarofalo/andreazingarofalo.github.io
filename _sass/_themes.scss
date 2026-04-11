@@ -102,19 +102,3 @@ $vimeo-color                : #1ab7ea;
 $vine-color                 : #00bf8f;
 $youtube-color              : #bb0000;
 $xing-color                 : #006567;
-   
-
-$link-color-standard: #0074d9; 
-
-a,
-a:visited {
-  color: $link-color-standard;
-  text-decoration: none; 
-}
-
-a:hover,
-a:focus,
-a:active {
-  color: lighten($link-color-standard, 15%);
-  text-decoration: underline; 
-}
