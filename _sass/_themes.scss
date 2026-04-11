@@ -104,22 +104,17 @@ $youtube-color              : #bb0000;
 $xing-color                 : #006567;
    
 
-/* ==========================================================================
-   Custom Accent Color
-   ========================================================================== */
-
-$custom-purple: #6a0dad;
-$website-purple: #64049c;
-$qiskit-purple: #6E40C9;
+$link-color-standard: #0074d9; 
 
 a,
 a:visited {
-  color: $custom-purple;
+  color: $link-color-standard;
+  text-decoration: none; 
 }
 
 a:hover,
 a:focus,
 a:active {
-  color: lighten($custom-purple, 10%);
-  text-decoration: underline;
+  color: lighten($link-color-standard, 15%);
+  text-decoration: underline; 
 }
