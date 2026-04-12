@@ -9,7 +9,7 @@ cv:
       username: andrea-zingarofalo
 
   sections:
-    education:
+    Education:
       - institution: Université libre de Bruxelles
         area: Quantum Information Theory
         degree: PhD
@@ -63,7 +63,7 @@ cv:
           - "Thesis: Study of one-dimensional quantum integrable systems via the Bethe Ansatz"
           - "Advisor: Prof. L. Martina"
 
-    experience:
+    Experience:
       - company: "Laboratoire d'Information Quantique – Université libre de Bruxelles"
         position: Doctoral Researcher
         start_date: 2025-09
@@ -119,7 +119,7 @@ cv:
         highlights:
           - High-school and university students
 
-    publications:
+    Publications:
       - title: "Integrability properties and multi-kink solutions of a generalised Fokker-Planck equation"
         authors:
           - F. Giglio
@@ -147,7 +147,7 @@ cv:
         date: 2023
         journal: "Rete di Idee, Udine 2022 – Forum Editrice, pages 81–100"
 
-    awards_and_scholarships:
+    Awards and Scholarships:
       - name: "Member of Nova – The Global Top Talent Network (top 3% worldwide)"
         date: 2025
         highlights:
@@ -182,7 +182,7 @@ cv:
         highlights:
           - "Ranked among the top 30 out of over 6000 participants nationwide"
 
-    skills:
+    Skills:
       - label: Programming
         details: "Python (NumPy, SciPy, Matplotlib, pandas), C/C++, Julia, Bash, Javascript, Mathematica, Matlab"
       - label: Quantum Libraries
@@ -192,7 +192,7 @@ cv:
       - label: Workflow
         details: "LaTeX, Markdown, git, Inkscape, Microsoft Office, UNIX/Linux"
 
-    languages:
+    Languages:
       - label: Italian
         details: Native
       - label: English
