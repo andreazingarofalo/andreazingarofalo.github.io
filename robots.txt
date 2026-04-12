@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://andreazingarofalo.github.io/al-folio/sitemap.xml
+Sitemap: https://andreazingarofalo.github.io/sitemap.xml
