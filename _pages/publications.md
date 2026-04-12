@@ -9,12 +9,17 @@ nav_order: 3
 
 <!-- _pages/publications.md -->
 
-<!-- Bibsearch Feature -->
-
 {% include bib_search.liquid %}
 
 <div class="publications">
 
-{% bibliography %}
+<h2>Journal Articles</h2>
+{% bibliography -q @*[category=journal] %}
+
+<h2>Communication & Outreach</h2>
+{% bibliography -q @*[category=outreach] %}
+
+<h2>Dissertations</h2>
+{% bibliography -q @*[category=dissertation] %}
 
 </div>
