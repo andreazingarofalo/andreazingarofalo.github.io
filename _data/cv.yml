@@ -1,189 +1,251 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Andrea Zingarofalo
+  label: PhD Candidate in Quantum Information Theory
+  email: andrea.zingarofalo@gmail.com
+  location: Brussels, Belgium
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: >
+    Theoretical physicist exploring how fundamental physical laws shape the limits of knowledge,
+    communication, and computation. My current research focuses on device-independent and self-testing
+    methods for certifying quantum resources, a crucial task for establishing trust and security in
+    next-generation quantum technologies. Beyond quantum computing, I am also fascinated by AI and
+    machine learning.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: andreazingarofalo
     - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+      username: andrea-zingarofalo
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: Université libre de Bruxelles
+        location: Brussels, Belgium
+        url: https://www.ulb.be
+        area: Quantum Information Theory
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
+        start_date: 2025
+        end_date: 2029
         score: ""
-        courses: "Theory of Relativity"
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Thesis: Self-Testing and Device-Independent Verification of Quantum Computation"
+          - "Advisor: Dr. S. Pironio"
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Advanced School ISUFI (Excellence Program)
+        location: Lecce, Italy
+        area: Natural Sciences
+        studyType: Diploma di Licenza
+        start_date: 2020
+        end_date: 2025
+        score: "70/70 cum laude"
         highlights:
-          - Description 1.
-          - Description 2.
+          - "~10% Acceptance rate for the Natural Sciences Class in 2020"
+          - "Modules: Group Theory and Symmetries, Celestial Mechanics, Astroparticle Physics, Applied Physics I–II, Philosophy of Science, ICT for Research, Public Speaking, Scientific Writing"
+
+      - institution: École normale supérieure
+        location: Paris, France
+        area: Theoretical Physics
+        studyType: "Exchange Program – Master ICFP M2"
+        start_date: 2024
+        end_date: 2025
+        score: ""
+        highlights:
+          - "Modules: General Relativity, Quantum Field Theory, Statistical Field Theory, Algorithms & Computations"
+
+      - institution: University of Salento
+        location: Lecce, Italy
+        area: Theoretical Physics
+        studyType: MSc
+        start_date: 2023
+        end_date: 2025
+        score: "110/110 cum laude, GPA: 29.8/30"
+        highlights:
+          - "Modules: Quantum Field Theory I–II, QCD, Statistical Mechanics, Quantum Computing, Physics of Complex Systems, Data Analysis, Mathematical Methods for AI"
+          - "Thesis: Exploring the boundaries of quantum correlations: Bell inequalities, convex duality, and self-testing"
+          - "Advisors: Prof. L. Martina & Prof. J.-D. Bancal"
+
+      - institution: University of Salento
+        location: Lecce, Italy
+        area: Physics
+        studyType: BSc
+        start_date: 2020
+        end_date: 2023
+        score: "110/110 cum laude, GPA: 30/30"
+        highlights:
+          - "Electives: Nuclear Physics, Astronomy, Foundations of Physics"
+          - "Thesis: Study of one-dimensional quantum integrable systems via the Bethe Ansatz"
+          - "Advisor: Prof. L. Martina"
+
+      - institution: Liceo Scientifico V. Lilla
+        location: Oria, Italy
+        area: ""
+        studyType: High School Diploma
+        start_date: 2015
+        end_date: 2020
+        score: "100/100 cum laude"
+        highlights:
+          - "Activities: Student ambassador"
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: "Laboratoire d'Information Quantique – Université libre de Bruxelles"
+        position: Doctoral Researcher
+        location: Brussels, Belgium
+        start_date: 2025
+        end_date: 2029
         highlights:
-          - Relativity
-          - Description 2.
+          - "Research on self-testing and device-independent protocols for certifying components of quantum computation, from multipartite entanglement to error-correcting codes"
+          - "Supervisor: Dr. S. Pironio"
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: "Institut de Physique Théorique – CEA Paris-Saclay"
+        position: Visiting PhD Student
+        location: Paris, France
+        start_date: 2025-10-01
+        end_date: 2026-02-28
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Research on verification protocols for quantum computation"
+          - "Supervisor: Prof. J.-D. Bancal"
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: Mindrift
+        position: AI Model Training Specialist (Physics)
+        location: Remote
+        start_date: 2025-11-01
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - "Contributed to training and evaluation of AI models by providing expert-level physics supervision and structured feedback"
+          - "Analyzed model outputs to identify systematic failure modes and guide iterative model refinement"
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - company: "Institut de Physique Théorique – CEA Paris-Saclay"
+        position: Research Intern
+        location: Paris, France
+        start_date: 2025-03-01
+        end_date: 2025-07-31
+        highlights:
+          - "Derived analytically new Bell inequalities for partially entangled states"
+          - "Implemented SDP relaxations to numerically estimate quantum bounds of Bell inequalities via the Navascués-Pironio-Acín hierarchy"
+          - "Supervisor: Prof. J.-D. Bancal"
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - company: "Mathematical Physics Group – University of Salento (with University of Glasgow)"
+        position: Research Intern
+        location: Lecce, Italy
+        start_date: 2024-03-01
+        end_date: 2024-07-31
+        highlights:
+          - "Derived multi-kink solutions of a generalized Fokker-Planck equation via Hirota's bilinear method"
+          - "Developed automated Mathematica scripts for symbolic generation of soliton solutions"
+          - "Supervisor: Prof. L. Martina"
+
+      - company: Self-employed
+        position: "Private Tutor in Mathematics, Physics, and Chemistry"
+        location: Italy
+        start_date: 2019
+        summary: "High-school and university students"
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: "Integrability properties and multi-kink solutions of a generalised Fokker-Planck equation"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - F. Giglio
+          - G. Landolfi
+          - L. Martina
+          - A. Zingarofalo
+        publisher: "Journal of Physics A: Mathematical and Theoretical"
+        releaseDate: 2025-04-01
+        summary: "58(16):165202, April 2025."
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: "Quantum correlations: A geometric perspective"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - A. Zingarofalo
+        publisher: Preprint
+        releaseDate: 2025-01-01
+        summary: "To be published."
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: "Il conflitto tra meccanica quantistica e senso comune"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - A. Zingarofalo
+        publisher: "Il Chiasmo by Treccani – The Italian Encyclopaedia Institute"
+        releaseDate: 2024-01-01
+        summary: "Science communication article."
+
+      - title: "Il ruolo delle simmetrie nel problema di Keplero"
+        authors:
+          - A. Zingarofalo
+        publisher: "Rete di Idee, Udine 2022 – Forum Editrice"
+        releaseDate: 2023-01-01
+        summary: "In D. Avaro and F. Decataldo, editors, pages 81–100, Udine."
+
+    Awards:
+      - title: "Member of Nova – The Global Top Talent Network (top 3% worldwide)"
+        date: 2025-01-01
+        awarder: Nova Network
+        summary: "Selected as one of the few Italian members recognizing the top 3% of professionals worldwide across STEM, business, and innovation."
+
+      - title: 'Winner of RIASISSU "Rete di Idee", XIII edition'
+        date: 2025-01-01
+        awarder: RIASISSU
+        summary: "Catania."
+
+      - title: "Top 100 STEM Graduates in Italy (Class of 2025)"
+        date: 2025-01-01
+        awarder: Almalaurea
+        summary: "Selected by the national consortium of Italian universities."
+
+      - title: 'ISUFI "Research & Innovation" Grant for International Research Mobility'
+        date: 2025-01-01
+        awarder: Advanced School ISUFI
+
+      - title: "Cité Internationale Universitaire de Paris Scholarship"
+        date: 2024-01-01
+        awarder: "Cité Internationale Universitaire de Paris"
+        summary: "Accommodation scholarship."
+
+      - title: 'Winner of RIASISSU "Rete di Idee", X edition'
+        date: 2022-01-01
+        awarder: RIASISSU
+        summary: "Udine."
+
+      - title: "ISUFI Scholarship at the University of Salento"
+        date: 2020-01-01
+        awarder: Advanced School ISUFI
+        summary: "Awarded for academic excellence (full accommodation and a stipend)."
+
+      - title: "Senior Finalist at XVI Italian Astronomy Olympiads"
+        date: 2018-01-01
+        awarder: Italian Astronomy Olympiads
+        summary: "Ranked among the top 30 out of over 6000 participants nationwide."
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Programming
+        level: Advanced
+        icon: fa-solid fa-code
+        keywords: "Python (NumPy, SciPy, Matplotlib, pandas), C/C++, Julia, Bash, Javascript, Mathematica, Matlab"
+
+      - name: Quantum Libraries
+        level: Advanced
+        icon: fa-solid fa-atom
+        keywords: "Qiskit, PennyLane, CVXPY, MOSEK, ncpol2sdpa"
+
+      - name: Data Analysis
+        level: Intermediate
+        icon: fa-solid fa-chart-bar
+        keywords: "ROOT framework, scikit-learn, TensorFlow"
+
+      - name: Workflow
+        level: Advanced
+        icon: fa-solid fa-laptop
+        keywords: "LaTeX, Markdown, git, Inkscape, Microsoft Office, UNIX/Linux, shell scripting"
 
     Languages:
-      - name: German
-        summary: "Native speaker"
+      - name: Italian
+        summary: Native
 
       - name: English
-        summary: "Fluent"
+        summary: C1
+
+      - name: French
+        summary: B2
+
+      - name: German
+        summary: A2
 
     Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Hobbies & Other
+        icon: fa-solid fa-music
+        keywords: "Guitar (Grade 2 Distinction, Trinity College of London), Amateur Astronomy (speaker at XXXVII Meeting of Apulian Astrophiles), Music, History, Travelling, Geopolitics, Tech"
