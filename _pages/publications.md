@@ -9,8 +9,6 @@ nav_order: 3
 
 <!-- _pages/publications.md -->
 
-{% include bib_search.liquid %}
-
 <div class="publications">
 
 <h2>Journal Articles</h2>
