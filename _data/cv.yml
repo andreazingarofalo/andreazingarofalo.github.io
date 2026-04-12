@@ -2,11 +2,6 @@ cv:
   name: Andrea Zingarofalo
   email: andrea.zingarofalo@gmail.com
   location: Brussels, Belgium
-  social_networks:
-    - network: GitHub
-      username: andreazingarofalo
-    - network: LinkedIn
-      username: andrea-zingarofalo
 
   sections:
     Education:
@@ -17,7 +12,7 @@ cv:
         end_date: present
         location: Brussels, Belgium
         highlights:
-          - "Thesis: Self-Testing and Device-Independent Verification of Quantum Computation"
+          - "Thesis: Self-testing and device-independent verification of quantum computation"
           - "Advisor: Dr. S. Pironio"
 
       - institution: Advanced School ISUFI (Excellence Program)
@@ -27,10 +22,10 @@ cv:
         end_date: 2025-07
         location: Lecce, Italy
         highlights:
-          - "70/70 cum laude — ~10% acceptance rate"
+          - "70/70 cum laude"
 
       - institution: École normale supérieure
-        area: "Theoretical Physics - Master ICFP M2"
+        area: "Master ICFP M2 - Theoretical Physics track"
         degree: Exchange Program
         start_date: 2024-09
         end_date: 2025-07
@@ -94,7 +89,7 @@ cv:
           - Implemented SDP relaxations to numerically estimate quantum bounds of Bell inequalities via the Navascués-Pironio-Acín hierarchy
           - "Supervisor: Prof. J.-D. Bancal"
 
-      - company: "Mathematical Physics Group - University of Salento (with University of Glasgow)"
+      - company: "Mathematical Physics Group - University of Salento"
         position: Research Intern
         start_date: 2024-03
         end_date: 2024-07
@@ -103,4 +98,3 @@ cv:
           - Derived multi-kink solutions of a generalized Fokker-Planck equation via Hirota's bilinear method
           - Developed automated Mathematica scripts for symbolic generation of soliton solutions
           - "Supervisor: Prof. L. Martina"
-
