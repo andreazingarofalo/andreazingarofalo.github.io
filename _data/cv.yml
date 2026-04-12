@@ -1,16 +1,7 @@
 cv:
   name: Andrea Zingarofalo
-  label: PhD Candidate in Quantum Information Theory
   email: andrea.zingarofalo@gmail.com
   location: Brussels, Belgium
-  image: ""
-  summary: >
-    Theoretical physicist exploring how fundamental physical laws shape the limits of knowledge,
-    communication, and computation. My current research focuses on device-independent and self-testing
-    methods for certifying quantum resources, a crucial task for establishing trust and security in
-    next-generation quantum technologies. Beyond quantum computing, I am also fascinated by AI and
-    machine learning.
-
   social_networks:
     - network: GitHub
       username: andreazingarofalo
@@ -18,234 +9,195 @@ cv:
       username: andrea-zingarofalo
 
   sections:
-    Education:
+    education:
       - institution: Université libre de Bruxelles
-        location: Brussels, Belgium
-        url: https://www.ulb.be
         area: Quantum Information Theory
-        studyType: PhD
-        start_date: 2025
-        end_date: 2029
-        score: ""
+        degree: PhD
+        start_date: 2025-09
+        end_date: present
+        location: Brussels, Belgium
         highlights:
           - "Thesis: Self-Testing and Device-Independent Verification of Quantum Computation"
           - "Advisor: Dr. S. Pironio"
 
       - institution: Advanced School ISUFI (Excellence Program)
-        location: Lecce, Italy
         area: Natural Sciences
-        studyType: Diploma di Licenza
-        start_date: 2020
-        end_date: 2025
-        score: "70/70 cum laude"
+        degree: Diploma di Licenza
+        start_date: 2020-09
+        end_date: 2025-07
+        location: Lecce, Italy
         highlights:
-          - "~10% Acceptance rate for the Natural Sciences Class in 2020"
+          - "70/70 cum laude — ~10% acceptance rate"
           - "Modules: Group Theory and Symmetries, Celestial Mechanics, Astroparticle Physics, Applied Physics I–II, Philosophy of Science, ICT for Research, Public Speaking, Scientific Writing"
 
       - institution: École normale supérieure
+        area: "Theoretical Physics – Master ICFP M2"
+        degree: Exchange Program
+        start_date: 2024-09
+        end_date: 2025-07
         location: Paris, France
-        area: Theoretical Physics
-        studyType: "Exchange Program – Master ICFP M2"
-        start_date: 2024
-        end_date: 2025
-        score: ""
         highlights:
           - "Modules: General Relativity, Quantum Field Theory, Statistical Field Theory, Algorithms & Computations"
 
       - institution: University of Salento
-        location: Lecce, Italy
         area: Theoretical Physics
-        studyType: MSc
-        start_date: 2023
-        end_date: 2025
-        score: "110/110 cum laude, GPA: 29.8/30"
+        degree: MSc
+        start_date: 2023-09
+        end_date: 2025-07
+        location: Lecce, Italy
         highlights:
+          - "110/110 cum laude, GPA: 29.8/30"
           - "Modules: Quantum Field Theory I–II, QCD, Statistical Mechanics, Quantum Computing, Physics of Complex Systems, Data Analysis, Mathematical Methods for AI"
           - "Thesis: Exploring the boundaries of quantum correlations: Bell inequalities, convex duality, and self-testing"
           - "Advisors: Prof. L. Martina & Prof. J.-D. Bancal"
 
       - institution: University of Salento
-        location: Lecce, Italy
         area: Physics
-        studyType: BSc
-        start_date: 2020
-        end_date: 2023
-        score: "110/110 cum laude, GPA: 30/30"
+        degree: BSc
+        start_date: 2020-09
+        end_date: 2023-07
+        location: Lecce, Italy
         highlights:
+          - "110/110 cum laude, GPA: 30/30"
           - "Electives: Nuclear Physics, Astronomy, Foundations of Physics"
           - "Thesis: Study of one-dimensional quantum integrable systems via the Bethe Ansatz"
           - "Advisor: Prof. L. Martina"
 
-      - institution: Liceo Scientifico V. Lilla
-        location: Oria, Italy
-        area: ""
-        studyType: High School Diploma
-        start_date: 2015
-        end_date: 2020
-        score: "100/100 cum laude"
-        highlights:
-          - "Activities: Student ambassador"
-
-    Experience:
+    experience:
       - company: "Laboratoire d'Information Quantique – Université libre de Bruxelles"
         position: Doctoral Researcher
+        start_date: 2025-09
+        end_date: present
         location: Brussels, Belgium
-        start_date: 2025
-        end_date: 2029
         highlights:
           - "Research on self-testing and device-independent protocols for certifying components of quantum computation, from multipartite entanglement to error-correcting codes"
           - "Supervisor: Dr. S. Pironio"
 
       - company: "Institut de Physique Théorique – CEA Paris-Saclay"
         position: Visiting PhD Student
+        start_date: 2025-10
+        end_date: 2026-02
         location: Paris, France
-        start_date: 2025-10-01
-        end_date: 2026-02-28
         highlights:
-          - "Research on verification protocols for quantum computation"
+          - Research on verification protocols for quantum computation
           - "Supervisor: Prof. J.-D. Bancal"
 
       - company: Mindrift
         position: AI Model Training Specialist (Physics)
+        start_date: 2025-11
+        end_date: present
         location: Remote
-        start_date: 2025-11-01
         highlights:
-          - "Contributed to training and evaluation of AI models by providing expert-level physics supervision and structured feedback"
-          - "Analyzed model outputs to identify systematic failure modes and guide iterative model refinement"
+          - Contributed to training and evaluation of AI models by providing expert-level physics supervision and structured feedback
+          - Analyzed model outputs to identify systematic failure modes and guide iterative model refinement
 
       - company: "Institut de Physique Théorique – CEA Paris-Saclay"
         position: Research Intern
+        start_date: 2025-03
+        end_date: 2025-07
         location: Paris, France
-        start_date: 2025-03-01
-        end_date: 2025-07-31
         highlights:
-          - "Derived analytically new Bell inequalities for partially entangled states"
-          - "Implemented SDP relaxations to numerically estimate quantum bounds of Bell inequalities via the Navascués-Pironio-Acín hierarchy"
+          - Derived analytically new Bell inequalities for partially entangled states
+          - Implemented SDP relaxations to numerically estimate quantum bounds of Bell inequalities via the Navascués-Pironio-Acín hierarchy
           - "Supervisor: Prof. J.-D. Bancal"
 
       - company: "Mathematical Physics Group – University of Salento (with University of Glasgow)"
         position: Research Intern
+        start_date: 2024-03
+        end_date: 2024-07
         location: Lecce, Italy
-        start_date: 2024-03-01
-        end_date: 2024-07-31
         highlights:
-          - "Derived multi-kink solutions of a generalized Fokker-Planck equation via Hirota's bilinear method"
-          - "Developed automated Mathematica scripts for symbolic generation of soliton solutions"
+          - Derived multi-kink solutions of a generalized Fokker-Planck equation via Hirota's bilinear method
+          - Developed automated Mathematica scripts for symbolic generation of soliton solutions
           - "Supervisor: Prof. L. Martina"
 
       - company: Self-employed
         position: "Private Tutor in Mathematics, Physics, and Chemistry"
-        location: Italy
         start_date: 2019
-        summary: "High-school and university students"
+        end_date: present
+        location: Italy
+        highlights:
+          - High-school and university students
 
-    Publications:
+    publications:
       - title: "Integrability properties and multi-kink solutions of a generalised Fokker-Planck equation"
         authors:
           - F. Giglio
           - G. Landolfi
           - L. Martina
           - A. Zingarofalo
-        publisher: "Journal of Physics A: Mathematical and Theoretical"
-        releaseDate: 2025-04-01
-        summary: "58(16):165202, April 2025."
+        date: 2025-04
+        journal: "Journal of Physics A: Mathematical and Theoretical, 58(16):165202"
 
       - title: "Quantum correlations: A geometric perspective"
         authors:
           - A. Zingarofalo
-        publisher: Preprint
-        releaseDate: 2025-01-01
-        summary: "To be published."
+        date: 2025
+        journal: "Preprint – to be published"
 
       - title: "Il conflitto tra meccanica quantistica e senso comune"
         authors:
           - A. Zingarofalo
-        publisher: "Il Chiasmo by Treccani – The Italian Encyclopaedia Institute"
-        releaseDate: 2024-01-01
-        summary: "Science communication article."
+        date: 2024
+        journal: "Il Chiasmo by Treccani – The Italian Encyclopaedia Institute"
 
       - title: "Il ruolo delle simmetrie nel problema di Keplero"
         authors:
           - A. Zingarofalo
-        publisher: "Rete di Idee, Udine 2022 – Forum Editrice"
-        releaseDate: 2023-01-01
-        summary: "In D. Avaro and F. Decataldo, editors, pages 81–100, Udine."
+        date: 2023
+        journal: "Rete di Idee, Udine 2022 – Forum Editrice, pages 81–100"
 
-    Awards:
-      - title: "Member of Nova – The Global Top Talent Network (top 3% worldwide)"
-        date: 2025-01-01
-        awarder: Nova Network
-        summary: "Selected as one of the few Italian members recognizing the top 3% of professionals worldwide across STEM, business, and innovation."
+    awards_and_scholarships:
+      - name: "Member of Nova – The Global Top Talent Network (top 3% worldwide)"
+        date: 2025
+        highlights:
+          - "Recognizing the top 3% of professionals worldwide across STEM, business, and innovation"
 
-      - title: 'Winner of RIASISSU "Rete di Idee", XIII edition'
-        date: 2025-01-01
-        awarder: RIASISSU
-        summary: "Catania."
+      - name: 'Winner of RIASISSU "Rete di Idee", XIII edition'
+        date: 2025
 
-      - title: "Top 100 STEM Graduates in Italy (Class of 2025)"
-        date: 2025-01-01
-        awarder: Almalaurea
-        summary: "Selected by the national consortium of Italian universities."
+      - name: "Top 100 STEM Graduates in Italy (Class of 2025)"
+        date: 2025
+        highlights:
+          - "Selected by Almalaurea, the national consortium of Italian universities"
 
-      - title: 'ISUFI "Research & Innovation" Grant for International Research Mobility'
-        date: 2025-01-01
-        awarder: Advanced School ISUFI
+      - name: 'ISUFI "Research & Innovation" Grant for International Research Mobility'
+        date: 2025
 
-      - title: "Cité Internationale Universitaire de Paris Scholarship"
-        date: 2024-01-01
-        awarder: "Cité Internationale Universitaire de Paris"
-        summary: "Accommodation scholarship."
+      - name: "Cité Internationale Universitaire de Paris Scholarship"
+        date: 2024
+        highlights:
+          - Accommodation scholarship
 
-      - title: 'Winner of RIASISSU "Rete di Idee", X edition'
-        date: 2022-01-01
-        awarder: RIASISSU
-        summary: "Udine."
+      - name: 'Winner of RIASISSU "Rete di Idee", X edition'
+        date: 2022
 
-      - title: "ISUFI Scholarship at the University of Salento"
-        date: 2020-01-01
-        awarder: Advanced School ISUFI
-        summary: "Awarded for academic excellence (full accommodation and a stipend)."
+      - name: "ISUFI Scholarship at the University of Salento"
+        date: 2020
+        highlights:
+          - "Awarded for academic excellence (full accommodation and a stipend)"
 
-      - title: "Senior Finalist at XVI Italian Astronomy Olympiads"
-        date: 2018-01-01
-        awarder: Italian Astronomy Olympiads
-        summary: "Ranked among the top 30 out of over 6000 participants nationwide."
+      - name: "Senior Finalist at XVI Italian Astronomy Olympiads"
+        date: 2018
+        highlights:
+          - "Ranked among the top 30 out of over 6000 participants nationwide"
 
-    Skills:
-      - name: Programming
-        level: Advanced
-        icon: fa-solid fa-code
-        keywords: "Python (NumPy, SciPy, Matplotlib, pandas), C/C++, Julia, Bash, Javascript, Mathematica, Matlab"
+    skills:
+      - label: Programming
+        details: "Python (NumPy, SciPy, Matplotlib, pandas), C/C++, Julia, Bash, Javascript, Mathematica, Matlab"
+      - label: Quantum Libraries
+        details: "Qiskit, PennyLane, CVXPY, MOSEK, ncpol2sdpa"
+      - label: Data Analysis
+        details: "ROOT framework, scikit-learn, TensorFlow"
+      - label: Workflow
+        details: "LaTeX, Markdown, git, Inkscape, Microsoft Office, UNIX/Linux"
 
-      - name: Quantum Libraries
-        level: Advanced
-        icon: fa-solid fa-atom
-        keywords: "Qiskit, PennyLane, CVXPY, MOSEK, ncpol2sdpa"
-
-      - name: Data Analysis
-        level: Intermediate
-        icon: fa-solid fa-chart-bar
-        keywords: "ROOT framework, scikit-learn, TensorFlow"
-
-      - name: Workflow
-        level: Advanced
-        icon: fa-solid fa-laptop
-        keywords: "LaTeX, Markdown, git, Inkscape, Microsoft Office, UNIX/Linux, shell scripting"
-
-    Languages:
-      - name: Italian
-        summary: Native
-
-      - name: English
-        summary: C1
-
-      - name: French
-        summary: B2
-
-      - name: German
-        summary: A2
-
-    Interests:
-      - name: Hobbies & Other
-        icon: fa-solid fa-music
-        keywords: "Guitar (Grade 2 Distinction, Trinity College of London), Amateur Astronomy (speaker at XXXVII Meeting of Apulian Astrophiles), Music, History, Travelling, Geopolitics, Tech"
+    languages:
+      - label: Italian
+        details: Native
+      - label: English
+        details: C1
+      - label: French
+        details: B2
+      - label: German
+        details: A2
