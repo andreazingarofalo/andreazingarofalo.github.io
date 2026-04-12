@@ -166,11 +166,11 @@ cv:
         details: "LaTeX, Markdown, git, Inkscape, Microsoft Office, UNIX/Linux"
 
     Languages:
-      - label: Italian
+      - name: Italian
         details: Native
-      - label: English
+      - name: English
         details: C1
-      - label: French
+      - name: French
         details: B2
-      - label: German
+      - name: German
         details: A2
