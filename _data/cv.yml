@@ -156,13 +156,13 @@ cv:
           - "Ranked among the top 30 out of over 6000 participants nationwide"
 
     Skills:
-      - label: Programming
+      - name: Programming
         details: "Python (NumPy, SciPy, Matplotlib, pandas), C/C++, Julia, Bash, Javascript, Mathematica, Matlab"
-      - label: Quantum Libraries
+      - name: Quantum Libraries
         details: "Qiskit, PennyLane, CVXPY, MOSEK, ncpol2sdpa"
-      - label: Data Analysis
+      - name: Data Analysis
         details: "ROOT framework, scikit-learn, TensorFlow"
-      - label: Workflow
+      - name: Workflow
         details: "LaTeX, Markdown, git, Inkscape, Microsoft Office, UNIX/Linux"
 
     Languages:
