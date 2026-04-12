@@ -28,16 +28,13 @@ cv:
         location: Lecce, Italy
         highlights:
           - "70/70 cum laude — ~10% acceptance rate"
-          - "Modules: Group Theory and Symmetries, Celestial Mechanics, Astroparticle Physics, Applied Physics I–II, Philosophy of Science, ICT for Research, Public Speaking, Scientific Writing"
 
       - institution: École normale supérieure
-        area: "Theoretical Physics – Master ICFP M2"
+        area: "Theoretical Physics - Master ICFP M2"
         degree: Exchange Program
         start_date: 2024-09
         end_date: 2025-07
         location: Paris, France
-        highlights:
-          - "Modules: General Relativity, Quantum Field Theory, Statistical Field Theory, Algorithms & Computations"
 
       - institution: University of Salento
         area: Theoretical Physics
@@ -46,8 +43,7 @@ cv:
         end_date: 2025-07
         location: Lecce, Italy
         highlights:
-          - "110/110 cum laude, GPA: 29.8/30"
-          - "Modules: Quantum Field Theory I–II, QCD, Statistical Mechanics, Quantum Computing, Physics of Complex Systems, Data Analysis, Mathematical Methods for AI"
+          - "110/110 cum laude"
           - "Thesis: Exploring the boundaries of quantum correlations: Bell inequalities, convex duality, and self-testing"
           - "Advisors: Prof. L. Martina & Prof. J.-D. Bancal"
 
@@ -58,13 +54,12 @@ cv:
         end_date: 2023-07
         location: Lecce, Italy
         highlights:
-          - "110/110 cum laude, GPA: 30/30"
-          - "Electives: Nuclear Physics, Astronomy, Foundations of Physics"
+          - "110/110 cum laude"
           - "Thesis: Study of one-dimensional quantum integrable systems via the Bethe Ansatz"
           - "Advisor: Prof. L. Martina"
 
     Experience:
-      - company: "Laboratoire d'Information Quantique – Université libre de Bruxelles"
+      - company: "Laboratoire d'Information Quantique - Université libre de Bruxelles"
         position: Doctoral Researcher
         start_date: 2025-09
         end_date: present
@@ -73,7 +68,7 @@ cv:
           - "Research on self-testing and device-independent protocols for certifying components of quantum computation, from multipartite entanglement to error-correcting codes"
           - "Supervisor: Dr. S. Pironio"
 
-      - company: "Institut de Physique Théorique – CEA Paris-Saclay"
+      - company: "Institut de Physique Théorique - CEA Paris-Saclay"
         position: Visiting PhD Student
         start_date: 2025-10
         end_date: 2026-02
@@ -91,7 +86,7 @@ cv:
           - Contributed to training and evaluation of AI models by providing expert-level physics supervision and structured feedback
           - Analyzed model outputs to identify systematic failure modes and guide iterative model refinement
 
-      - company: "Institut de Physique Théorique – CEA Paris-Saclay"
+      - company: "Institut de Physique Théorique - CEA Paris-Saclay"
         position: Research Intern
         start_date: 2025-03
         end_date: 2025-07
@@ -111,66 +106,3 @@ cv:
           - Developed automated Mathematica scripts for symbolic generation of soliton solutions
           - "Supervisor: Prof. L. Martina"
 
-      - company: Self-employed
-        position: "Private Tutor in Mathematics, Physics, and Chemistry"
-        start_date: 2019
-        end_date: present
-        location: Italy
-        highlights:
-          - High-school and university students
-
-
-    Awards and Scholarships:
-      - name: "Member of Nova – The Global Top Talent Network (top 3% worldwide)"
-        date: 2025
-        highlights:
-          - "Recognizing the top 3% of professionals worldwide across STEM, business, and innovation"
-
-      - name: 'Winner of RIASISSU "Rete di Idee", XIII edition'
-        date: 2025
-
-      - name: "Top 100 STEM Graduates in Italy (Class of 2025)"
-        date: 2025
-        highlights:
-          - "Selected by Almalaurea, the national consortium of Italian universities"
-
-      - name: 'ISUFI "Research & Innovation" Grant for International Research Mobility'
-        date: 2025
-
-      - name: "Cité Internationale Universitaire de Paris Scholarship"
-        date: 2024
-        highlights:
-          - Accommodation scholarship
-
-      - name: 'Winner of RIASISSU "Rete di Idee", X edition'
-        date: 2022
-
-      - name: "ISUFI Scholarship at the University of Salento"
-        date: 2020
-        highlights:
-          - "Awarded for academic excellence (full accommodation and a stipend)"
-
-      - name: "Senior Finalist at XVI Italian Astronomy Olympiads"
-        date: 2018
-        highlights:
-          - "Ranked among the top 30 out of over 6000 participants nationwide"
-
-    Skills:
-      - name: Programming
-        details: "Python (NumPy, SciPy, Matplotlib, pandas), C/C++, Julia, Bash, Javascript, Mathematica, Matlab"
-      - name: Quantum Libraries
-        details: "Qiskit, PennyLane, CVXPY, MOSEK, ncpol2sdpa"
-      - name: Data Analysis
-        details: "ROOT framework, scikit-learn, TensorFlow"
-      - name: Workflow
-        details: "LaTeX, Markdown, git, Inkscape, Microsoft Office, UNIX/Linux"
-
-    Languages:
-      - name: Italian
-        details: Native
-      - name: English
-        details: C1
-      - name: French
-        details: B2
-      - name: German
-        details: A2
