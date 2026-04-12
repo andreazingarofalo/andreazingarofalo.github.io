@@ -12,7 +12,7 @@ cv:
     Education:
       - institution: Université libre de Bruxelles
         area: Quantum Information Theory
-        degree: PhD
+        degree: PhD in Theoretical Physics
         start_date: 2025-09
         end_date: present
         location: Brussels, Belgium
@@ -37,8 +37,7 @@ cv:
         location: Paris, France
 
       - institution: University of Salento
-        area: Theoretical Physics
-        degree: MSc
+        degree: MSc in Theoretical Physics
         start_date: 2023-09
         end_date: 2025-07
         location: Lecce, Italy
@@ -48,8 +47,7 @@ cv:
           - "Advisors: Prof. L. Martina & Prof. J.-D. Bancal"
 
       - institution: University of Salento
-        area: Physics
-        degree: BSc
+        degree: BSc in Physics
         start_date: 2020-09
         end_date: 2023-07
         location: Lecce, Italy
