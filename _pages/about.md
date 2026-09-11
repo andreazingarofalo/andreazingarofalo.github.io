@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: PhD Candidate in Quantum Information Theory @ <a href='https://www.ulb.be'>ULB</a>
+subtitle: PhD Candidate in Quantum Information Theory @ <a href='https://www.ulb.be'>LIQ - ULB</a>
 
 profile:
   align: right
