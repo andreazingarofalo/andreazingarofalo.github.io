@@ -1,4 +1,5 @@
 ---
+sitemap: false
 layout: page
 title: project title
 description: short description of the project
