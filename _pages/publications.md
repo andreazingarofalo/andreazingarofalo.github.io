@@ -11,6 +11,10 @@ nav_order: 3
 
 <div class="publications">
 
+<h2>Preprints</h2>
+{% bibliography -q @*[category=preprint] --group_by none %}
+
+<div style="margin-top: 3rem;"></div>
 <h2>Journal Articles</h2>
 {% bibliography -q @*[category=journal] --group_by none %}
 
