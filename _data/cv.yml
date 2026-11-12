@@ -5,15 +5,16 @@ cv:
 
   sections:
     Education:
-      - institution: Université libre de Bruxelles
+      - institution: Université libre de Bruxelles & Université Paris-Saclay
         area: Quantum Information Theory
         degree: PhD in Theoretical Physics
         start_date: 2025-09
         end_date: present
-        location: Brussels, Belgium
+        location: Brussels, Belgium & Paris, France
         highlights:
+          - "Cotutelle internationale between ULB and Université Paris-Saclay, hosted by the Laboratoire d'Information Quantique (ULB) and the Institut de Physique Théorique (IPhT, CEA Paris-Saclay)"
           - "Thesis: Self-testing and device-independent verification of quantum computation"
-          - "Advisor: Dr. S. Pironio"
+          - "Advisors: Prof. S. Pironio (ULB) & Prof. J.-D. Bancal (IPhT)"
 
       - institution: Advanced School ISUFI (Excellence Program)
         area: Natural Sciences
