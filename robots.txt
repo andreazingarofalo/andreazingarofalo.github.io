@@ -2,6 +2,7 @@
 permalink: /robots.txt
 ---
 User-agent: *
-Disallow:
+# PDFs kept on the site but out of Google / Google Scholar
+Disallow: /assets/pdf/noindex/
 
 Sitemap: {{ site.baseurl | prepend: site.url }}/sitemap.xml
