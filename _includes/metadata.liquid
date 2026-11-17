@@ -44,6 +44,23 @@
   <meta name="keywords" content="{% if page.keywords %}{{ page.keywords }}{% else %}{{ site.keywords }}{% endif %}">
 {% endif %}
 
+{% if page.citation_title %}
+  <!-- Bibliographic metadata for Google Scholar, see https://scholar.google.com/intl/en/scholar/inclusion.html#indexing -->
+  <meta name="citation_title" content="{{ page.citation_title | escape }}">
+  {% for citation_author in page.citation_authors %}
+    <meta name="citation_author" content="{{ citation_author | escape }}">
+  {% endfor %}
+  {% if page.citation_publication_date %}
+    <meta name="citation_publication_date" content="{{ page.citation_publication_date }}">
+  {% endif %}
+  {% if page.citation_dissertation_institution %}
+    <meta name="citation_dissertation_institution" content="{{ page.citation_dissertation_institution | escape }}">
+  {% endif %}
+  {% if page.citation_pdf_url %}
+    <meta name="citation_pdf_url" content="{{ page.citation_pdf_url | absolute_url }}">
+  {% endif %}
+{% endif %}
+
 {% assign is_blog_post = false %}
 {% if page.url != '/blog/index.html' and page.url contains '/blog/' %}
   {% unless page.url contains '/tag/' or page.url contains '/category/' %}
