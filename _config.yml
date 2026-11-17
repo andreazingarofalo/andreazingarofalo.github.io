@@ -9,11 +9,11 @@ last_name: Zingarofalo
 contact_note: >
   Feel free to send me an email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Andrea Zingarofalo, PhD candidate in quantum information theory at the Université libre de Bruxelles (ULB), working on quantum foundations, Bell nonlocality and entanglement.
+  Andrea Zingarofalo, theoretical physicist and PhD candidate in quantum information theory at the Université libre de Bruxelles (ULB) and Université Paris-Saclay (IPhT), working on Bell nonlocality, self-testing and the device-independent certification of quantum devices and computations.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: Andrea Zingarofalo, quantum information theory, quantum foundations, Bell nonlocality, entanglement, ULB, Université libre de Bruxelles
+keywords: Andrea Zingarofalo, theoretical physics, quantum information theory, quantum foundations, Bell nonlocality, self-testing, device-independent certification, quantum computing, mathematical physics, ULB, Université libre de Bruxelles, IPhT, Université Paris-Saclay
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: AZ.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 

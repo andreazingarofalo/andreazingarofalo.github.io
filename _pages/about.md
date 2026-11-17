@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: PhD Candidate in Quantum Information Theory @ <a href='https://www.ulb.be'>LIQ - ULB</a>
+subtitle: Theoretical physicist · PhD candidate @ <a href='https://www.ulb.be'>LIQ - ULB</a> & <a href='https://www.ipht.fr'>IPhT - UPSaclay</a>
 
 profile:
   align: right
@@ -19,8 +19,8 @@ latest_posts:
   enabled: false
 ---
 
-## Interests
+I'm a theoretical physicist exploring how the fundamental laws of physics shape the limits of knowledge, communication and computation.
 
-My current interests lie in exploring the foundational and information-theoretic aspects of quantum theory, particularly in understanding peculiar quantum phenomena such as entanglement and nonlocality, and their implications for both fundamental physics and emerging technologies.
+I'm currently an F.R.S.-FNRS Research Fellow and PhD candidate in a joint doctorate between the Université libre de Bruxelles and Université Paris-Saclay, supervised by Stefano Pironio (LIQ, ULB) and Jean-Daniel Bancal (IPhT, CEA). I work on Bell nonlocality and self-testing, developing device-independent methods to certify quantum devices and computations. I'm equally drawn to mathematical physics, where my research began with integrable systems.
 
-I'm also drawn to statistical mechanics, especially where it intersects with quantum foundations and information theory. I enjoy exploring how physical principles constrain the structure of possible theories, and how tools from thermodynamics and probability can shed light on what makes quantum mechanics unique. I'm eager to approach these questions with both conceptual curiosity and mathematical precision.
+Beyond physics and maths, I'm curious about history, geopolitics, finance and technology, and I play the guitar.
