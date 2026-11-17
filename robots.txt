@@ -1,4 +1,5 @@
 User-agent: *
-Disallow:
+# PDFs kept on the site but out of Google / Google Scholar
+Disallow: /assets/pdf/noindex/
 
 Sitemap: https://andreazingarofalo.github.io/sitemap.xml
